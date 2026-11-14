@@ -29,7 +29,7 @@ const content={
   0:{
     title:'Zona 0: Cebeza - Salud Mental y Sueño',
     intro:'Descanso y Ciclo Circadiano en Urgencias',
-    causes:['El personal labora de noche y duerme menos de 7 horas.'],
+    causes:['Turnos rotativos, trabajo nocturno prolongado y alteración del ciclo circadiano inherentes a la operación asistencial continua del servicio de urgencias.'],
     recommendations:
     ['Usa antifaz y cortinas blackout para simular oscurridad total de dia.',
     'Evita pantallas pesadas y cafeína las ultimas 3 horas antes de dormir.',
@@ -48,11 +48,11 @@ const content={
         label:'Manejo de estrés: Respiraciones profundas'
     }]},
   1:{
-    title:'Zona 1: Cuello - Región Cervical - 65% de afectación',
+    title:'Zona 1: Cuello - Región Cervical',
     intro:'Alerta de Tensión Cervical',
-    causes:['Posturas estáticas prolongadas y revisión constante de equipos o historias clínicas.'],
+    causes:['Posturas forzadas con flexión, inclinación y rotación sostenida del tronco y cuello durante la atención y el registro clínico en puestos de trabajo con diseño limitado.'],
     recommendations:
-   ['Pausa Activa Exprés (1 Minuto): Inflexión lateral: lleva la oreja derecha hacia el hombro derecho (sostén 10 segundos sin forzar). Repite al lado izquierdo.',
+    ['Pausa Activa Exprés (1 Minuto): Inflexión lateral: lleva la oreja derecha hacia el hombro derecho (sostén 10 segundos sin forzar). Repite al lado izquierdo.',
     'Rotación suave: gira la cabeza lentamente mirando por encima de cada hombro.',
     'Autocuidado: Evita sostener el teléfono con el hombro mientras escribes o registras datos.',
     ],
@@ -160,7 +160,7 @@ const content={
     }]},
   10:{
     title:'Zona 10: Muñeca derecha',
-    intro:'Cuidado de Muñecas (Prevención de Túnel Carpiano)',
+    intro:'Cuidado de Muñecas (Prevención del Sindrome del Túnel Carpiano)',
     causes:['Movimientos repetitivos continuos en digitación de sistemas, procedimientos clínicos y uso de instrumental.'],
     recommendations:
    ['Estiramiento clave: Con el brazo extendido y la palma hacia abajo, lleva la mano hacia abajo (haciendo "p.ej. señal de alto") y ejerce leve presión con la otra mano por 10 segundos. Alterna hacia arriba.'],
@@ -170,7 +170,7 @@ const content={
     }]},
   11:{
     title:'Zona 11: Muñeca izquierda',
-    intro:'Cuidado de Muñecas (Prevención de Túnel Carpiano)',
+    intro:'Cuidado de Muñecas (Prevención del Sindrome del Túnel Carpiano)',
     causes:['Movimientos repetitivos continuos en digitación de sistemas, procedimientos clínicos y uso de instrumental.'],
     recommendations:
    ['Estiramiento clave: Con el brazo extendido y la palma hacia abajo, lleva la mano hacia abajo (haciendo "p.ej. señal de alto") y ejerce leve presión con la otra mano por 10 segundos. Alterna hacia arriba.'],
@@ -222,7 +222,7 @@ const content={
         label:'Flexiona las rodillas',
     },
     {
-        src:'Imagenes/Pide ayuda.jpg',
+        src:'Imagenes/Pide Ayuda.jpg',
         label:'Pide ayuda',
     },
     {
@@ -305,7 +305,7 @@ const content={
     causes:['Pisos húmedos, presencia de obstáculos o cables, y largas jornadas de pie que aumentan el riesgo locativo y de caídas al mismo nivel.'],
     recommendations:
    ['Realiza movimientos circulares con cada tobillo hacia ambos lados (10 veces).',
-    'Recuerda el uso obligatorio de calzado antideslizante y cómodo, clave para prevenir caídas al mismo nivel (tercer riesgo en la GTC 45)'
+    'Recuerda el uso obligatorio de calzado antideslizante y cómodo, clave para prevenir caídas al mismo nivel'
    ],
     images:[{
         src:'Imagenes/Pies.jpg',
@@ -321,7 +321,7 @@ const content={
     causes:['Pisos húmedos, presencia de obstáculos o cables, y largas jornadas de pie que aumentan el riesgo locativo y de caídas al mismo nivel.'],
     recommendations:
    ['Realiza movimientos circulares con cada tobillo hacia ambos lados (10 veces).',
-    'Recuerda el uso obligatorio de calzado antideslizante y cómodo, clave para prevenir caídas al mismo nivel (tercer riesgo en la GTC 45)'
+    'Recuerda el uso obligatorio de calzado antideslizante y cómodo, clave para prevenir caídas al mismo nivel'
    ],
     images:[{
         src:'Imagenes/Pies.jpg',
