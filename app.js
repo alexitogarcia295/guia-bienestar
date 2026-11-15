@@ -52,13 +52,13 @@ const content={
     intro:'Alerta de Tensión Cervical',
     causes:['Posturas forzadas con flexión, inclinación y rotación sostenida del tronco y cuello durante la atención y el registro clínico en puestos de trabajo con diseño limitado.'],
     recommendations:
-    ['Pausa Activa Exprés (1 Minuto): Inflexión lateral: lleva la oreja derecha hacia el hombro derecho (sostén 10 segundos sin forzar). Repite al lado izquierdo.',
+    ['Pausa Activa Exprés (1 Minuto):Flexión lateral: lleva la oreja derecha hacia el hombro derecho (sostén 10 segundos sin forzar). Repite al lado izquierdo.',
     'Rotación suave: gira la cabeza lentamente mirando por encima de cada hombro.',
     'Autocuidado: Evita sostener el teléfono con el hombro mientras escribes o registras datos.',
     ],
     images:[{
         src:'Imagenes/Pausa Activa Expres.jpg',
-        label:'Pausa Activa Exprés (1 Minuto): Inflexión lateral'
+        label:'Pausa Activa Exprés (1 Minuto): Flexión lateral'
     },
     {
         src:'Imagenes/Rotación Suave.jpg',
